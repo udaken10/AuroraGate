@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+scipy
+lightgbm
+xgboost
+catboost
+optuna
+torch
+transformers
+sentence-transformers
+matplotlib
+japanize-matplotlib
